@@ -17,3 +17,6 @@ This project demonstrate how we can use multiple JavaScript Technologies to writ
 1. Node JS v12.16.1 or above.
 2. Visual Studio Code
 3. Postman
+
+#Reference
+https://codeburst.io/to-handle-authentication-with-node-js-express-mongo-jwt-7e55f5818181
