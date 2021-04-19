@@ -62,6 +62,7 @@ router.post("/login", async (req, res) => {
     // payload data
     {
       name: user.name,
+      email: user.email,
       id: user._id,
     },
     process.env.TOKEN_SECRET
